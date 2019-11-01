@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+sdfsdfdf
+fghf
+>>>>>>> branch 'master' of https://github.com/chinaox/test-spring-cloud.git
